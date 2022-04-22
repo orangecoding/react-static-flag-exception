@@ -12,8 +12,3 @@ export default function SomeFancyComponent({data}){
         }
         return null;
     }
-
-SomeFancyComponent.defaultProps = {
-    data: null,
-
-};
